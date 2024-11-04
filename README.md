@@ -20,7 +20,7 @@ This business type can come in many forms: super-markets and grocery-stores prov
 A sub-category of the restaurant is the so-called 'restaurant-chain'. The restaurant chain operates on a much larger scale than the conventional restaurant, usually with a standardized menu and fixed-prices.
 A big draw of the restaurant-chain business to customers is the convinience and standardization of the dining experience that they provide. Customers can always expect the same, or similar, menu-items, prices, and atmosphere. It is important to note that menues differ across international-locations due to regional restrictions and cultural values.
 ## Data
->A list as per the wikipedia list of the top restaurant chains in the world. Wikipedia as decided that the appropriate criteria to base the list upon is revenue.
+>A list as per the wikipedia list of the top 3 restaurant chains in the world. Wikipedia as decided that the appropriate criteria to base the list upon is revenue.
 >The data in the table is represeted with the following properties:
 >* Position
 >* Country of origin
